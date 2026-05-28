@@ -1,5 +1,4 @@
 # POEP2
-
 # Cybersecurity Awareness Bot — Part 2
 
 A C# WPF chatbot that educates users about cybersecurity threats and how to stay safe online through an interactive graphical interface.
